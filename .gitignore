@@ -1,0 +1,5 @@
+google-creds.json
+variables.tf
+terraform-init
+sandbox_env.sh
+.terraform/
